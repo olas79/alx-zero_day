@@ -1,1 +1,1 @@
-mayday done successfully
+mayday
